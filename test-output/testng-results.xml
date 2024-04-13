@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-12T20:51:23 IST" name="Suite" finished-at="2024-04-12T20:51:49 IST" duration-ms="25764">
+  <suite started-at="2024-04-12T21:45:52 IST" name="Suite" finished-at="2024-04-12T21:46:17 IST" duration-ms="24373">
     <groups>
     </groups>
-    <test started-at="2024-04-12T20:51:23 IST" name="chromeTest" finished-at="2024-04-12T20:51:29 IST" duration-ms="5849">
+    <test started-at="2024-04-12T21:45:52 IST" name="chromeTest" finished-at="2024-04-12T21:46:00 IST" duration-ms="7386">
       <class name="com.crossbrowsing.CrossBrowseTest">
-        <test-method is-config="true" signature="crossBrowser(java.lang.String)[pri:0, instance:com.crossbrowsing.CrossBrowseTest@2dc54ad4]" started-at="2024-04-12T20:51:23 IST" name="crossBrowser" finished-at="2024-04-12T20:51:26 IST" duration-ms="3177" status="PASS">
+        <test-method is-config="true" signature="crossBrowser(java.lang.String)[pri:0, instance:com.crossbrowsing.CrossBrowseTest@2dc54ad4]" started-at="2024-04-12T21:45:52 IST" name="crossBrowser" finished-at="2024-04-12T21:45:57 IST" duration-ms="4551" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- crossBrowser -->
-        <test-method signature="browserest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@2dc54ad4]" started-at="2024-04-12T20:51:26 IST" name="browserest" finished-at="2024-04-12T20:51:29 IST" duration-ms="2351" status="PASS">
+        <test-method signature="browserest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@2dc54ad4]" started-at="2024-04-12T21:45:57 IST" name="browserest" finished-at="2024-04-12T21:45:59 IST" duration-ms="2391" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserest -->
-        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@2dc54ad4]" started-at="2024-04-12T20:51:29 IST" name="closeTest" finished-at="2024-04-12T20:51:29 IST" duration-ms="248" status="PASS">
+        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@2dc54ad4]" started-at="2024-04-12T21:45:59 IST" name="closeTest" finished-at="2024-04-12T21:46:00 IST" duration-ms="376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeTest -->
       </class> <!-- com.crossbrowsing.CrossBrowseTest -->
     </test> <!-- chromeTest -->
-    <test started-at="2024-04-12T20:51:29 IST" name="firefoxTest" finished-at="2024-04-12T20:51:40 IST" duration-ms="10830">
+    <test started-at="2024-04-12T21:46:00 IST" name="firefoxTest" finished-at="2024-04-12T21:46:09 IST" duration-ms="9691">
       <class name="com.crossbrowsing.CrossBrowseTest">
-        <test-method is-config="true" signature="crossBrowser(java.lang.String)[pri:0, instance:com.crossbrowsing.CrossBrowseTest@1e6a3214]" started-at="2024-04-12T20:51:29 IST" name="crossBrowser" finished-at="2024-04-12T20:51:35 IST" duration-ms="6283" status="PASS">
+        <test-method is-config="true" signature="crossBrowser(java.lang.String)[pri:0, instance:com.crossbrowsing.CrossBrowseTest@1e6a3214]" started-at="2024-04-12T21:46:00 IST" name="crossBrowser" finished-at="2024-04-12T21:46:05 IST" duration-ms="5086" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,19 +41,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- crossBrowser -->
-        <test-method signature="browserest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@1e6a3214]" started-at="2024-04-12T20:51:35 IST" name="browserest" finished-at="2024-04-12T20:51:38 IST" duration-ms="3100" status="PASS">
+        <test-method signature="browserest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@1e6a3214]" started-at="2024-04-12T21:46:05 IST" name="browserest" finished-at="2024-04-12T21:46:08 IST" duration-ms="3022" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserest -->
-        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@1e6a3214]" started-at="2024-04-12T20:51:38 IST" name="closeTest" finished-at="2024-04-12T20:51:40 IST" duration-ms="1439" status="PASS">
+        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@1e6a3214]" started-at="2024-04-12T21:46:08 IST" name="closeTest" finished-at="2024-04-12T21:46:09 IST" duration-ms="1577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeTest -->
       </class> <!-- com.crossbrowsing.CrossBrowseTest -->
     </test> <!-- firefoxTest -->
-    <test started-at="2024-04-12T20:51:40 IST" name="edgeTest" finished-at="2024-04-12T20:51:49 IST" duration-ms="9049">
+    <test started-at="2024-04-12T21:46:09 IST" name="edgeTest" finished-at="2024-04-12T21:46:17 IST" duration-ms="7251">
       <class name="com.crossbrowsing.CrossBrowseTest">
-        <test-method is-config="true" signature="crossBrowser(java.lang.String)[pri:0, instance:com.crossbrowsing.CrossBrowseTest@71ba6d4e]" started-at="2024-04-12T20:51:40 IST" name="crossBrowser" finished-at="2024-04-12T20:51:47 IST" duration-ms="6723" status="PASS">
+        <test-method is-config="true" signature="crossBrowser(java.lang.String)[pri:0, instance:com.crossbrowsing.CrossBrowseTest@71ba6d4e]" started-at="2024-04-12T21:46:09 IST" name="crossBrowser" finished-at="2024-04-12T21:46:14 IST" duration-ms="4323" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,11 +64,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- crossBrowser -->
-        <test-method signature="browserest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@71ba6d4e]" started-at="2024-04-12T20:51:47 IST" name="browserest" finished-at="2024-04-12T20:51:49 IST" duration-ms="2042" status="PASS">
+        <test-method signature="browserest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@71ba6d4e]" started-at="2024-04-12T21:46:14 IST" name="browserest" finished-at="2024-04-12T21:46:16 IST" duration-ms="2585" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserest -->
-        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@71ba6d4e]" started-at="2024-04-12T20:51:49 IST" name="closeTest" finished-at="2024-04-12T20:51:49 IST" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.crossbrowsing.CrossBrowseTest@71ba6d4e]" started-at="2024-04-12T21:46:16 IST" name="closeTest" finished-at="2024-04-12T21:46:17 IST" duration-ms="334" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeTest -->
