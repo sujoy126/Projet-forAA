@@ -7,6 +7,9 @@ import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriver.Options;
+import org.openqa.selenium.WebDriver.TargetLocator;
+import org.openqa.selenium.WebDriver.Window;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -28,6 +31,9 @@ public class AmazonHomePage {
 			String s = w.getText();
 			System.out.println(s);
 		}
+	//	 Options r = driver.manage();
+	//	 TargetLocator p = driver.switchTo();
+	//	Window w = driver.manage().window();
 		e.submit();
 		
 		System.out.println("----------------------------------------");
